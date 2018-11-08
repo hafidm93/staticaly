@@ -2,6 +2,12 @@
 # We'll be very happy if you add your website here
 # Please add to the top
 
+- name: Alinux Blog
+  link: "https://amp.alinuxblog.com"
+
+- name: AMP Blogger
+  link: "https://www.amp-blogger.com"
+
 - name: ManKoin
   link: "https://www.mankoin.blog"
 
